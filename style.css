@@ -1,0 +1,10 @@
+body {
+  width: 72%;
+  margin: 7vw auto;
+}
+
+@media screen and (min-width: 40em) {
+  body {
+    width: 50%;
+  }
+}
