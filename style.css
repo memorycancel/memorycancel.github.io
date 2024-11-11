@@ -1,0 +1,43 @@
+@font-face {
+  src: url('wojiyuzhou.woff2');
+  font-family: 'mzd';
+}
+
+.mzd {
+  font-family: 'mzd';
+  color: #c21a1a;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: #c21a1a;
+}
+
+a:visited {
+  color: #c21a1a;
+}
+
+body {
+  width: 84%;
+  margin: 10px auto;
+}
+
+@media screen and (min-width:400px) {
+  body {
+    width: 400px;
+  }
+}
+
+#ava {
+  width: 71px;
+  height: 71px;
+  margin-right: 10px;
+  border-radius: 50%; 
+}
+
+.avaline {
+  display: flex;
+}
