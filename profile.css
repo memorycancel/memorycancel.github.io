@@ -132,3 +132,27 @@ i {
   font-size: 1.5rem;
   margin: 1.3px;
 }
+
+a {
+  color: #5a5a5a;
+}
+
+/* unvisited link */
+a:link {
+  color: #5a5a5a;
+}
+
+/* visited link */
+a:visited {
+  color: #5a5a5a;
+}
+
+/* mouse over link */
+a:hover {
+  color: #5a5a5a;
+}
+
+/* selected link */
+a:active {
+  color: #5a5a5a;
+}
